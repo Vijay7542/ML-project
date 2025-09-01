@@ -1,0 +1,3 @@
+Cloud AI Platforms: Familiarize yourself with advanced AI services offered by cloud 
+providers (e.g., Google Cloud AI Platform, AWS SageMaker, Azure Machine Learning) for 
+deploying and managing complex AI models
